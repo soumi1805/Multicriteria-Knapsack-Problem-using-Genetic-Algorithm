@@ -13,10 +13,4 @@ Now the Factory wants to buy machine with maximize productivity while minimizing
 
 While doing this they must ensure they can buy as many as machines possible.Factory's budget (10 Crore)
 should be taken as a factor also.
-Item    Productivity    Pollution   Cost
-1         2                 1         2
-2         3                 2         1
-3         6                 6         5
-4         5                 4         7
-5         8                 13        1
-6         3                  2        2
+Thw fields in the inventory file is Item no.,Productivity,Pollution and cost respectively.

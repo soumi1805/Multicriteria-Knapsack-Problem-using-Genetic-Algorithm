@@ -13,4 +13,4 @@ Now the Factory wants to buy machine with maximize productivity while minimizing
 
 While doing this they must ensure they can buy as many as machines possible.Factory's budget (10 Crore)
 should be taken as a factor also.
-Thw fields in the inventory file is Item no.,Productivity,Pollution and cost respectively.
+Thw fields in the inventory file represents Item no.,Productivity,Pollution and cost respectively.
